@@ -1,0 +1,7 @@
+D:\.net\Day-16\Part-2\Part-2\bin\Debug\Part-2.exe.config
+D:\.net\Day-16\Part-2\Part-2\bin\Debug\Part-2.exe
+D:\.net\Day-16\Part-2\Part-2\bin\Debug\Part-2.pdb
+D:\.net\Day-16\Part-2\Part-2\obj\Debug\Part-2.csproj.AssemblyReference.cache
+D:\.net\Day-16\Part-2\Part-2\obj\Debug\Part-2.csproj.CoreCompileInputs.cache
+D:\.net\Day-16\Part-2\Part-2\obj\Debug\Part-2.exe
+D:\.net\Day-16\Part-2\Part-2\obj\Debug\Part-2.pdb
